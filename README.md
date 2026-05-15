@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://syncless.ai">Website</a> ·
-  <a href="https://x.com/AiSyncless">X (Twitter)</a> ·
+  <a href="https://discord.com/invite/PBRjrhHsr">Discord</a> ·
   <a href="https://github.com/langgenius/syncless-issue/issues/new/choose">Report an Issue</a>
 </p>
 
@@ -50,7 +50,7 @@ Before submitting, please search [existing issues](https://github.com/langgenius
 | Resource | URL |
 |----------|-----|
 | Website | [syncless.ai](https://syncless.ai) |
-| X (Twitter) | [@AiSyncless](https://x.com/AiSyncless) |
+| Discord | [Join our community](https://discord.com/invite/PBRjrhHsr) |
 
 ## License
 
@@ -97,7 +97,7 @@ Syncless 是一个**跨越你整个世界运作的 Agent** —— 你的浏览�
 | 资源 | 链接 |
 |------|------|
 | 官网 | [syncless.ai](https://syncless.ai) |
-| X (Twitter) | [@AiSyncless](https://x.com/AiSyncless) |
+| Discord | [加入社区](https://discord.com/invite/PBRjrhHsr) |
 
 ## 许可
 
